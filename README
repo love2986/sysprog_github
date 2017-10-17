@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 HELLO WORLD
 
 HyeJeong Jang(09/08)
 dkdkdkdkdkdkkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdk
 
+=======
+>>>>>>> 4b0111b5d4760b01ad6f4bc35e62ff54e11d0755
 
 HOW TO RUN
 1. shmem_* : server and client processes will be share same memory area that can be writable and readable from both sides. 
